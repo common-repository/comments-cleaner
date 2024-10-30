@@ -1,0 +1,65 @@
+# Translation of the WordPress plugin Comments Cleaner 1.0.3 by Daniel Frużyński.
+# Copyright (C) 2010 Daniel Frużyński
+# This file is distributed under the same license as the Comments Cleaner package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Comments Cleaner 1.0.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/comments-cleaner\n"
+"POT-Creation-Date: 2010-01-17 12:43+0000\n"
+"PO-Revision-Date: 2010-07-27 18:45+0100\n"
+"Last-Translator: Olivier <oli4janssen@hotmail.com>\n"
+"Language-Team: Daniel Fruzynski <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+"X-Poedit-Language: Afar\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: comments-cleaner.php:92
+msgid "Comments Cleaner - Options"
+msgstr "Comments Cleaner - Opties"
+
+#: comments-cleaner.php:100
+msgid "Remove Author's URL"
+msgstr "Verwijder Schrijvers URL"
+
+#: comments-cleaner.php:109
+msgid "Remove HTML tags"
+msgstr "Verwijder HTML tags"
+
+#: comments-cleaner.php:118
+msgid "Remove BBCode tags"
+msgstr "Verwijder BBCode tags"
+
+#: comments-cleaner.php:127
+msgid "Remove plain text links"
+msgstr "Verwijder tekstlinks"
+
+#: comments-cleaner.php:137
+msgid "Save settings"
+msgstr "Opties opslaan"
+
+#. Plugin Name of an extension
+msgid "Comments Cleaner"
+msgstr "Comments Cleaner"
+
+#. Plugin URI of an extension
+msgid "http://www.poradnik-webmastera.com/projekty/comments_cleaner/"
+msgstr "http://www.poradnik-webmastera.com/projekty/comments_cleaner/"
+
+#. Description of an extension
+msgid "This plugin removes all HTML tags, BBCode tags and links from added comments."
+msgstr "Deze plugin verwijdert alle HTML tags, BBCode tags en links uit geplaatste reacties"
+
+#. Author of an extension
+msgid "Daniel Frużyński"
+msgstr "Daniel Frużyński"
+
+#. Author URI of an extension
+msgid "http://www.poradnik-webmastera.com/"
+msgstr "http://www.poradnik-webmastera.com/"
+
